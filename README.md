@@ -16,19 +16,6 @@ cd Improved-ResNet
 pip install -r requirements.txt
 ```
 
-## Usage
-Run the training script:
-```bash
-python train.py --config config.yaml
-```
-
-Evaluate the model:
-```bash
-python evaluate.py --model_path path/to/model
-```
-
-## Results
-Provide benchmark results and performance comparisons here.
 
 ## Contributing
 Feel free to open issues or submit pull requests to improve the project.
